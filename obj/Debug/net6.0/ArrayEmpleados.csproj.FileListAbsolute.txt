@@ -1,0 +1,15 @@
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEmpleados\obj\Debug\net6.0\ArrayEmpleados.csproj.AssemblyReference.cache
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEmpleados\obj\Debug\net6.0\ArrayEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEmpleados\obj\Debug\net6.0\ArrayEmpleados.AssemblyInfoInputs.cache
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEmpleados\obj\Debug\net6.0\ArrayEmpleados.AssemblyInfo.cs
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEmpleados\obj\Debug\net6.0\ArrayEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEmpleados\bin\Debug\net6.0\ArrayEmpleados.exe
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEmpleados\bin\Debug\net6.0\ArrayEmpleados.deps.json
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEmpleados\bin\Debug\net6.0\ArrayEmpleados.runtimeconfig.json
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEmpleados\bin\Debug\net6.0\ArrayEmpleados.dll
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEmpleados\bin\Debug\net6.0\ArrayEmpleados.pdb
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEmpleados\obj\Debug\net6.0\ArrayEmpleados.dll
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEmpleados\obj\Debug\net6.0\refint\ArrayEmpleados.dll
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEmpleados\obj\Debug\net6.0\ArrayEmpleados.pdb
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEmpleados\obj\Debug\net6.0\ArrayEmpleados.genruntimeconfig.cache
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEmpleados\obj\Debug\net6.0\ref\ArrayEmpleados.dll
